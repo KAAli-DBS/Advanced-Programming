@@ -1,0 +1,5 @@
+/workspaces/Advanced-Programming/DI-Array3/obj/Debug/net8.0/DI-Array3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/DI-Array3/obj/Debug/net8.0/DI-Array3.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/DI-Array3/obj/Debug/net8.0/DI-Array3.AssemblyInfo.cs
+/workspaces/Advanced-Programming/DI-Array3/obj/Debug/net8.0/DI-Array3.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/DI-Array3/obj/Debug/net8.0/DI-Array3.sourcelink.json
