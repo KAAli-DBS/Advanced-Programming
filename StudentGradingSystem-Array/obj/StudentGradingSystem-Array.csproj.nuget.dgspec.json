@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Advanced-Programming/FirstC#Program/PrintingText.csproj": {}
+    "/workspaces/Advanced-Programming/StudentGradingSystem-Array/StudentGradingSystem-Array.csproj": {}
   },
   "projects": {
-    "/workspaces/Advanced-Programming/FirstC#Program/PrintingText.csproj": {
+    "/workspaces/Advanced-Programming/StudentGradingSystem-Array/StudentGradingSystem-Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Advanced-Programming/FirstC#Program/PrintingText.csproj",
-        "projectName": "PrintingText",
-        "projectPath": "/workspaces/Advanced-Programming/FirstC#Program/PrintingText.csproj",
+        "projectUniqueName": "/workspaces/Advanced-Programming/StudentGradingSystem-Array/StudentGradingSystem-Array.csproj",
+        "projectName": "StudentGradingSystem-Array",
+        "projectPath": "/workspaces/Advanced-Programming/StudentGradingSystem-Array/StudentGradingSystem-Array.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/Advanced-Programming/FirstC#Program/obj/",
+        "outputPath": "/workspaces/Advanced-Programming/StudentGradingSystem-Array/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
