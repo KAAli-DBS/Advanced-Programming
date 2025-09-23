@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/InsertSearchArray/bin/Debug/net8.0/InsertSearchArray
+/workspaces/Advanced-Programming/InsertSearchArray/bin/Debug/net8.0/InsertSearchArray.deps.json
+/workspaces/Advanced-Programming/InsertSearchArray/bin/Debug/net8.0/InsertSearchArray.runtimeconfig.json
+/workspaces/Advanced-Programming/InsertSearchArray/bin/Debug/net8.0/InsertSearchArray.dll
+/workspaces/Advanced-Programming/InsertSearchArray/bin/Debug/net8.0/InsertSearchArray.pdb
+/workspaces/Advanced-Programming/InsertSearchArray/obj/Debug/net8.0/InsertSearchArray.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/InsertSearchArray/obj/Debug/net8.0/InsertSearchArray.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/InsertSearchArray/obj/Debug/net8.0/InsertSearchArray.AssemblyInfo.cs
+/workspaces/Advanced-Programming/InsertSearchArray/obj/Debug/net8.0/InsertSearchArray.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/InsertSearchArray/obj/Debug/net8.0/InsertSearchArray.sourcelink.json
+/workspaces/Advanced-Programming/InsertSearchArray/obj/Debug/net8.0/InsertSearchArray.dll
+/workspaces/Advanced-Programming/InsertSearchArray/obj/Debug/net8.0/refint/InsertSearchArray.dll
+/workspaces/Advanced-Programming/InsertSearchArray/obj/Debug/net8.0/InsertSearchArray.pdb
+/workspaces/Advanced-Programming/InsertSearchArray/obj/Debug/net8.0/InsertSearchArray.genruntimeconfig.cache
+/workspaces/Advanced-Programming/InsertSearchArray/obj/Debug/net8.0/ref/InsertSearchArray.dll
