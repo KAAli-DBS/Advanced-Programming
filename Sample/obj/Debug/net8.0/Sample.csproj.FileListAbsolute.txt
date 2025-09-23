@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/Sample/bin/Debug/net8.0/Sample
+/workspaces/Advanced-Programming/Sample/bin/Debug/net8.0/Sample.deps.json
+/workspaces/Advanced-Programming/Sample/bin/Debug/net8.0/Sample.runtimeconfig.json
+/workspaces/Advanced-Programming/Sample/bin/Debug/net8.0/Sample.dll
+/workspaces/Advanced-Programming/Sample/bin/Debug/net8.0/Sample.pdb
+/workspaces/Advanced-Programming/Sample/obj/Debug/net8.0/Sample.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/Sample/obj/Debug/net8.0/Sample.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/Sample/obj/Debug/net8.0/Sample.AssemblyInfo.cs
+/workspaces/Advanced-Programming/Sample/obj/Debug/net8.0/Sample.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/Sample/obj/Debug/net8.0/Sample.sourcelink.json
+/workspaces/Advanced-Programming/Sample/obj/Debug/net8.0/Sample.dll
+/workspaces/Advanced-Programming/Sample/obj/Debug/net8.0/refint/Sample.dll
+/workspaces/Advanced-Programming/Sample/obj/Debug/net8.0/Sample.pdb
+/workspaces/Advanced-Programming/Sample/obj/Debug/net8.0/Sample.genruntimeconfig.cache
+/workspaces/Advanced-Programming/Sample/obj/Debug/net8.0/ref/Sample.dll

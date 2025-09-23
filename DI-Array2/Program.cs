@@ -5,13 +5,15 @@ string[] str1, str2;
 // Initialization of array 
 str1 = new string[5]{ "Element1", "Element2", "Element3", "Element4", "Element5" }; 
 
-//Console.Write(str1.Length);
+Console.Write(str1.Length);
 
+// Printing values here using for loop
 for (int i = 0; i < str1.Length; i++)
 {
     Console.WriteLine(str1[i]);
 }
 
+// Printing values here foreach()
 str2 = new string[5]{ "Element11", "Element12", "Element13", "Element14", "Element15" };
 foreach (string item in str2)
 {

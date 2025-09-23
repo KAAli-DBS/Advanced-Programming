@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Advanced-Programming/DI-Array/DI-Array.csproj",
+      "projectUniqueName": "/workspaces/Advanced-Programming/DI-Array1/DI-Array.csproj",
       "projectName": "DI-Array",
-      "projectPath": "/workspaces/Advanced-Programming/DI-Array/DI-Array.csproj",
+      "projectPath": "/workspaces/Advanced-Programming/DI-Array1/DI-Array.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Advanced-Programming/DI-Array/obj/",
+      "outputPath": "/workspaces/Advanced-Programming/DI-Array1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

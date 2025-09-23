@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DI-Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9f901f62feb547c5a5944abd7e5fff73d2a04db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb464c67453560ef844ef74542d25b31aa31388a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DI-Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DI-Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

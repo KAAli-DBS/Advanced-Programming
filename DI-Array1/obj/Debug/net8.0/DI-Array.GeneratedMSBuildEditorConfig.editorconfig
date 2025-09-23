@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DI_Array
-build_property.ProjectDir = /workspaces/Advanced-Programming/DI-Array/
+build_property.ProjectDir = /workspaces/Advanced-Programming/DI-Array1/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

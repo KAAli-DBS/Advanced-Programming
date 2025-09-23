@@ -11,8 +11,7 @@ Note : Only Declaration of an array doesn’t allocate memory to the array. For 
 
 */
 
-//int[] numbers = { 10, 20, 30, 40, 50 };
-
+int[] numbers = { 10, 20, 30, 40, 50 };
 
 int[] arr1 = new int[5];
 
