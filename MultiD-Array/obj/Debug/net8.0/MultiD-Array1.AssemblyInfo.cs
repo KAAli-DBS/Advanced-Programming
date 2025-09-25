@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiD-Array1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb464c67453560ef844ef74542d25b31aa31388a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6f90ce37e8fc8acd35f9a46997b84ca7e54700e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiD-Array1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiD-Array1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

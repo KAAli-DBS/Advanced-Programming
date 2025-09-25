@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InsertSearchArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+865c4a343bc308914567e8d94a6924f33f6b104b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6f90ce37e8fc8acd35f9a46997b84ca7e54700e")]
 [assembly: System.Reflection.AssemblyProductAttribute("InsertSearchArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InsertSearchArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

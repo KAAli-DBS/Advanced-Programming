@@ -5,9 +5,9 @@ int[,] multiDimensionalArray1 = new int[2, 3];
 // Row 0 has 3 elements → arr[0,0], arr[0,1], arr[0,2]
 // Row 1 has 3 elements → arr[1,0], arr[1,1], arr[1,2]
 
-/*Console.WriteLine(multiDimensionalArray1.Length);
-Console.WriteLine(multiDimensionalArray1.GetLength(0));
-Console.WriteLine(multiDimensionalArray1.GetLength(1));*/
+//Console.WriteLine(multiDimensionalArray1.Length);
+//Console.WriteLine(multiDimensionalArray1.GetLength(0));
+//Console.WriteLine(multiDimensionalArray1.GetLength(1));
 
 for(int i=0; i < multiDimensionalArray1.GetLength(0); i++)
 {
