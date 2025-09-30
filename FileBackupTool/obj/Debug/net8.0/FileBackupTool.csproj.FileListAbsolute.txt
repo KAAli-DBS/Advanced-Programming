@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/FileBackupTool/bin/Debug/net8.0/FileBackupTool
+/workspaces/Advanced-Programming/FileBackupTool/bin/Debug/net8.0/FileBackupTool.deps.json
+/workspaces/Advanced-Programming/FileBackupTool/bin/Debug/net8.0/FileBackupTool.runtimeconfig.json
+/workspaces/Advanced-Programming/FileBackupTool/bin/Debug/net8.0/FileBackupTool.dll
+/workspaces/Advanced-Programming/FileBackupTool/bin/Debug/net8.0/FileBackupTool.pdb
+/workspaces/Advanced-Programming/FileBackupTool/obj/Debug/net8.0/FileBackupTool.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/FileBackupTool/obj/Debug/net8.0/FileBackupTool.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/FileBackupTool/obj/Debug/net8.0/FileBackupTool.AssemblyInfo.cs
+/workspaces/Advanced-Programming/FileBackupTool/obj/Debug/net8.0/FileBackupTool.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/FileBackupTool/obj/Debug/net8.0/FileBackupTool.sourcelink.json
+/workspaces/Advanced-Programming/FileBackupTool/obj/Debug/net8.0/FileBackupTool.dll
+/workspaces/Advanced-Programming/FileBackupTool/obj/Debug/net8.0/refint/FileBackupTool.dll
+/workspaces/Advanced-Programming/FileBackupTool/obj/Debug/net8.0/FileBackupTool.pdb
+/workspaces/Advanced-Programming/FileBackupTool/obj/Debug/net8.0/FileBackupTool.genruntimeconfig.cache
+/workspaces/Advanced-Programming/FileBackupTool/obj/Debug/net8.0/ref/FileBackupTool.dll
