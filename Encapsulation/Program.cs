@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Example of OOP-Encapsulation
+
+using System;
 
 public class BankAccount
 {
