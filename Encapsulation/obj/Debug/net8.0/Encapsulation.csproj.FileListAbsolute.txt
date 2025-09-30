@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/Encapsulation/bin/Debug/net8.0/Encapsulation
+/workspaces/Advanced-Programming/Encapsulation/bin/Debug/net8.0/Encapsulation.deps.json
+/workspaces/Advanced-Programming/Encapsulation/bin/Debug/net8.0/Encapsulation.runtimeconfig.json
+/workspaces/Advanced-Programming/Encapsulation/bin/Debug/net8.0/Encapsulation.dll
+/workspaces/Advanced-Programming/Encapsulation/bin/Debug/net8.0/Encapsulation.pdb
+/workspaces/Advanced-Programming/Encapsulation/obj/Debug/net8.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/Encapsulation/obj/Debug/net8.0/Encapsulation.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/Encapsulation/obj/Debug/net8.0/Encapsulation.AssemblyInfo.cs
+/workspaces/Advanced-Programming/Encapsulation/obj/Debug/net8.0/Encapsulation.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/Encapsulation/obj/Debug/net8.0/Encapsulation.sourcelink.json
+/workspaces/Advanced-Programming/Encapsulation/obj/Debug/net8.0/Encapsulation.dll
+/workspaces/Advanced-Programming/Encapsulation/obj/Debug/net8.0/refint/Encapsulation.dll
+/workspaces/Advanced-Programming/Encapsulation/obj/Debug/net8.0/Encapsulation.pdb
+/workspaces/Advanced-Programming/Encapsulation/obj/Debug/net8.0/Encapsulation.genruntimeconfig.cache
+/workspaces/Advanced-Programming/Encapsulation/obj/Debug/net8.0/ref/Encapsulation.dll
