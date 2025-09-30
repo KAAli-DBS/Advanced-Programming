@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/StudentGradingSystem-Array/bin/Debug/net8.0/StudentGradingSystem-Array
+/workspaces/Advanced-Programming/StudentGradingSystem-Array/bin/Debug/net8.0/StudentGradingSystem-Array.deps.json
+/workspaces/Advanced-Programming/StudentGradingSystem-Array/bin/Debug/net8.0/StudentGradingSystem-Array.runtimeconfig.json
+/workspaces/Advanced-Programming/StudentGradingSystem-Array/bin/Debug/net8.0/StudentGradingSystem-Array.dll
+/workspaces/Advanced-Programming/StudentGradingSystem-Array/bin/Debug/net8.0/StudentGradingSystem-Array.pdb
+/workspaces/Advanced-Programming/StudentGradingSystem-Array/obj/Debug/net8.0/StudentGradingSystem-Array.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/StudentGradingSystem-Array/obj/Debug/net8.0/StudentGradingSystem-Array.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/StudentGradingSystem-Array/obj/Debug/net8.0/StudentGradingSystem-Array.AssemblyInfo.cs
+/workspaces/Advanced-Programming/StudentGradingSystem-Array/obj/Debug/net8.0/StudentGradingSystem-Array.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/StudentGradingSystem-Array/obj/Debug/net8.0/StudentGradingSystem-Array.sourcelink.json
+/workspaces/Advanced-Programming/StudentGradingSystem-Array/obj/Debug/net8.0/StudentGradingSystem-Array.dll
+/workspaces/Advanced-Programming/StudentGradingSystem-Array/obj/Debug/net8.0/refint/StudentGradingSystem-Array.dll
+/workspaces/Advanced-Programming/StudentGradingSystem-Array/obj/Debug/net8.0/StudentGradingSystem-Array.pdb
+/workspaces/Advanced-Programming/StudentGradingSystem-Array/obj/Debug/net8.0/StudentGradingSystem-Array.genruntimeconfig.cache
+/workspaces/Advanced-Programming/StudentGradingSystem-Array/obj/Debug/net8.0/ref/StudentGradingSystem-Array.dll

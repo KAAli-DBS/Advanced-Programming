@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/FileSystem/bin/Debug/net8.0/FileSystem
+/workspaces/Advanced-Programming/FileSystem/bin/Debug/net8.0/FileSystem.deps.json
+/workspaces/Advanced-Programming/FileSystem/bin/Debug/net8.0/FileSystem.runtimeconfig.json
+/workspaces/Advanced-Programming/FileSystem/bin/Debug/net8.0/FileSystem.dll
+/workspaces/Advanced-Programming/FileSystem/bin/Debug/net8.0/FileSystem.pdb
+/workspaces/Advanced-Programming/FileSystem/obj/Debug/net8.0/FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/FileSystem/obj/Debug/net8.0/FileSystem.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/FileSystem/obj/Debug/net8.0/FileSystem.AssemblyInfo.cs
+/workspaces/Advanced-Programming/FileSystem/obj/Debug/net8.0/FileSystem.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/FileSystem/obj/Debug/net8.0/FileSystem.sourcelink.json
+/workspaces/Advanced-Programming/FileSystem/obj/Debug/net8.0/FileSystem.dll
+/workspaces/Advanced-Programming/FileSystem/obj/Debug/net8.0/refint/FileSystem.dll
+/workspaces/Advanced-Programming/FileSystem/obj/Debug/net8.0/FileSystem.pdb
+/workspaces/Advanced-Programming/FileSystem/obj/Debug/net8.0/FileSystem.genruntimeconfig.cache
+/workspaces/Advanced-Programming/FileSystem/obj/Debug/net8.0/ref/FileSystem.dll

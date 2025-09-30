@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/DI-Array2/bin/Debug/net8.0/DI-Array2
+/workspaces/Advanced-Programming/DI-Array2/bin/Debug/net8.0/DI-Array2.deps.json
+/workspaces/Advanced-Programming/DI-Array2/bin/Debug/net8.0/DI-Array2.runtimeconfig.json
+/workspaces/Advanced-Programming/DI-Array2/bin/Debug/net8.0/DI-Array2.dll
+/workspaces/Advanced-Programming/DI-Array2/bin/Debug/net8.0/DI-Array2.pdb
+/workspaces/Advanced-Programming/DI-Array2/obj/Debug/net8.0/DI-Array2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/DI-Array2/obj/Debug/net8.0/DI-Array2.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/DI-Array2/obj/Debug/net8.0/DI-Array2.AssemblyInfo.cs
+/workspaces/Advanced-Programming/DI-Array2/obj/Debug/net8.0/DI-Array2.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/DI-Array2/obj/Debug/net8.0/DI-Array2.sourcelink.json
+/workspaces/Advanced-Programming/DI-Array2/obj/Debug/net8.0/DI-Array2.dll
+/workspaces/Advanced-Programming/DI-Array2/obj/Debug/net8.0/refint/DI-Array2.dll
+/workspaces/Advanced-Programming/DI-Array2/obj/Debug/net8.0/DI-Array2.pdb
+/workspaces/Advanced-Programming/DI-Array2/obj/Debug/net8.0/DI-Array2.genruntimeconfig.cache
+/workspaces/Advanced-Programming/DI-Array2/obj/Debug/net8.0/ref/DI-Array2.dll
