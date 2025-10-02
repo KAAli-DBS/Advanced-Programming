@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/BinarySearch/bin/Debug/net8.0/BinarySearch
+/workspaces/Advanced-Programming/BinarySearch/bin/Debug/net8.0/BinarySearch.deps.json
+/workspaces/Advanced-Programming/BinarySearch/bin/Debug/net8.0/BinarySearch.runtimeconfig.json
+/workspaces/Advanced-Programming/BinarySearch/bin/Debug/net8.0/BinarySearch.dll
+/workspaces/Advanced-Programming/BinarySearch/bin/Debug/net8.0/BinarySearch.pdb
+/workspaces/Advanced-Programming/BinarySearch/obj/Debug/net8.0/BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/BinarySearch/obj/Debug/net8.0/BinarySearch.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/BinarySearch/obj/Debug/net8.0/BinarySearch.AssemblyInfo.cs
+/workspaces/Advanced-Programming/BinarySearch/obj/Debug/net8.0/BinarySearch.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/BinarySearch/obj/Debug/net8.0/BinarySearch.sourcelink.json
+/workspaces/Advanced-Programming/BinarySearch/obj/Debug/net8.0/BinarySearch.dll
+/workspaces/Advanced-Programming/BinarySearch/obj/Debug/net8.0/refint/BinarySearch.dll
+/workspaces/Advanced-Programming/BinarySearch/obj/Debug/net8.0/BinarySearch.pdb
+/workspaces/Advanced-Programming/BinarySearch/obj/Debug/net8.0/BinarySearch.genruntimeconfig.cache
+/workspaces/Advanced-Programming/BinarySearch/obj/Debug/net8.0/ref/BinarySearch.dll
