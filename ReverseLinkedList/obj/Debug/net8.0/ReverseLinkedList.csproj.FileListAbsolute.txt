@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/ReverseLinkedList/bin/Debug/net8.0/ReverseLinkedList
+/workspaces/Advanced-Programming/ReverseLinkedList/bin/Debug/net8.0/ReverseLinkedList.deps.json
+/workspaces/Advanced-Programming/ReverseLinkedList/bin/Debug/net8.0/ReverseLinkedList.runtimeconfig.json
+/workspaces/Advanced-Programming/ReverseLinkedList/bin/Debug/net8.0/ReverseLinkedList.dll
+/workspaces/Advanced-Programming/ReverseLinkedList/bin/Debug/net8.0/ReverseLinkedList.pdb
+/workspaces/Advanced-Programming/ReverseLinkedList/obj/Debug/net8.0/ReverseLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/ReverseLinkedList/obj/Debug/net8.0/ReverseLinkedList.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/ReverseLinkedList/obj/Debug/net8.0/ReverseLinkedList.AssemblyInfo.cs
+/workspaces/Advanced-Programming/ReverseLinkedList/obj/Debug/net8.0/ReverseLinkedList.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/ReverseLinkedList/obj/Debug/net8.0/ReverseLinkedList.sourcelink.json
+/workspaces/Advanced-Programming/ReverseLinkedList/obj/Debug/net8.0/ReverseLinkedList.dll
+/workspaces/Advanced-Programming/ReverseLinkedList/obj/Debug/net8.0/refint/ReverseLinkedList.dll
+/workspaces/Advanced-Programming/ReverseLinkedList/obj/Debug/net8.0/ReverseLinkedList.pdb
+/workspaces/Advanced-Programming/ReverseLinkedList/obj/Debug/net8.0/ReverseLinkedList.genruntimeconfig.cache
+/workspaces/Advanced-Programming/ReverseLinkedList/obj/Debug/net8.0/ref/ReverseLinkedList.dll
