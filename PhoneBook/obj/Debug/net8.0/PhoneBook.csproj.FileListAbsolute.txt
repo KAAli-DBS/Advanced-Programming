@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/PhoneBook/bin/Debug/net8.0/PhoneBook
+/workspaces/Advanced-Programming/PhoneBook/bin/Debug/net8.0/PhoneBook.deps.json
+/workspaces/Advanced-Programming/PhoneBook/bin/Debug/net8.0/PhoneBook.runtimeconfig.json
+/workspaces/Advanced-Programming/PhoneBook/bin/Debug/net8.0/PhoneBook.dll
+/workspaces/Advanced-Programming/PhoneBook/bin/Debug/net8.0/PhoneBook.pdb
+/workspaces/Advanced-Programming/PhoneBook/obj/Debug/net8.0/PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/PhoneBook/obj/Debug/net8.0/PhoneBook.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/PhoneBook/obj/Debug/net8.0/PhoneBook.AssemblyInfo.cs
+/workspaces/Advanced-Programming/PhoneBook/obj/Debug/net8.0/PhoneBook.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/PhoneBook/obj/Debug/net8.0/PhoneBook.sourcelink.json
+/workspaces/Advanced-Programming/PhoneBook/obj/Debug/net8.0/PhoneBook.dll
+/workspaces/Advanced-Programming/PhoneBook/obj/Debug/net8.0/refint/PhoneBook.dll
+/workspaces/Advanced-Programming/PhoneBook/obj/Debug/net8.0/PhoneBook.pdb
+/workspaces/Advanced-Programming/PhoneBook/obj/Debug/net8.0/PhoneBook.genruntimeconfig.cache
+/workspaces/Advanced-Programming/PhoneBook/obj/Debug/net8.0/ref/PhoneBook.dll
