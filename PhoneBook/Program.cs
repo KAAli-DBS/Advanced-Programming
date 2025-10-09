@@ -9,27 +9,37 @@ public class PhoneBook
     {
         int left = 0;
         int right = contacts.Count - 1;
+        int comparisonCount = 0;
 
         while (left <= right)
         {
             int mid = left + (right - left) / 2;
 
+            comparisonCount++; // Count each comparison made
+
             int comparison = string.Compare(contacts[mid].Name, targetName, StringComparison.OrdinalIgnoreCase);
+
+            // comparison < 0 → mid name comes before target → search right half
+
+            // comparison > 0 → mid name comes after target → search left half
 
             if (comparison == 0)
             {
+                Console.WriteLine($"Element found at index {mid}");
+                Console.WriteLine($"Total comparisons made: {comparisonCount}");
                 return contacts[mid];
             }       
             else if (comparison > 0)
             {
-                right = mid - 1;
+                right = mid - 1;   // Search left half
             }   
             else
             {
-                left = mid + 1;
+                left = mid + 1;   // Search right half
             }
         }
-
+        // If not found
+        Console.WriteLine($"Element not found after {comparisonCount} comparisons.");   
         return null; 
     }
     public static void Main(string[] args)
@@ -46,7 +56,8 @@ public class PhoneBook
     
         phoneBook.Sort((x, y) => string.Compare(x.Name, y.Name, StringComparison.OrdinalIgnoreCase));
             
-        string searchName = "bob";
+        // string searchName = "Charlie";
+        string searchName = "David";
 
         Contact foundContact = BinarySearch(phoneBook, searchName);
 
