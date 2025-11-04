@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/QuickSort/bin/Debug/net8.0/QuickSort
+/workspaces/Advanced-Programming/QuickSort/bin/Debug/net8.0/QuickSort.deps.json
+/workspaces/Advanced-Programming/QuickSort/bin/Debug/net8.0/QuickSort.runtimeconfig.json
+/workspaces/Advanced-Programming/QuickSort/bin/Debug/net8.0/QuickSort.dll
+/workspaces/Advanced-Programming/QuickSort/bin/Debug/net8.0/QuickSort.pdb
+/workspaces/Advanced-Programming/QuickSort/obj/Debug/net8.0/QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/QuickSort/obj/Debug/net8.0/QuickSort.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/QuickSort/obj/Debug/net8.0/QuickSort.AssemblyInfo.cs
+/workspaces/Advanced-Programming/QuickSort/obj/Debug/net8.0/QuickSort.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/QuickSort/obj/Debug/net8.0/QuickSort.sourcelink.json
+/workspaces/Advanced-Programming/QuickSort/obj/Debug/net8.0/QuickSort.dll
+/workspaces/Advanced-Programming/QuickSort/obj/Debug/net8.0/refint/QuickSort.dll
+/workspaces/Advanced-Programming/QuickSort/obj/Debug/net8.0/QuickSort.pdb
+/workspaces/Advanced-Programming/QuickSort/obj/Debug/net8.0/QuickSort.genruntimeconfig.cache
+/workspaces/Advanced-Programming/QuickSort/obj/Debug/net8.0/ref/QuickSort.dll
