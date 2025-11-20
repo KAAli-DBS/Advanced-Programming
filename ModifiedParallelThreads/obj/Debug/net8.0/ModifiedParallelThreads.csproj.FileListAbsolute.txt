@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/ModifiedParallelThreads/obj/Debug/net8.0/ModifiedParallelThreads.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/ModifiedParallelThreads/obj/Debug/net8.0/ModifiedParallelThreads.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/ModifiedParallelThreads/obj/Debug/net8.0/ModifiedParallelThreads.AssemblyInfo.cs
+/workspaces/Advanced-Programming/ModifiedParallelThreads/obj/Debug/net8.0/ModifiedParallelThreads.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/ModifiedParallelThreads/obj/Debug/net8.0/ModifiedParallelThreads.sourcelink.json
+/workspaces/Advanced-Programming/ModifiedParallelThreads/bin/Debug/net8.0/ModifiedParallelThreads
+/workspaces/Advanced-Programming/ModifiedParallelThreads/bin/Debug/net8.0/ModifiedParallelThreads.deps.json
+/workspaces/Advanced-Programming/ModifiedParallelThreads/bin/Debug/net8.0/ModifiedParallelThreads.runtimeconfig.json
+/workspaces/Advanced-Programming/ModifiedParallelThreads/bin/Debug/net8.0/ModifiedParallelThreads.dll
+/workspaces/Advanced-Programming/ModifiedParallelThreads/bin/Debug/net8.0/ModifiedParallelThreads.pdb
+/workspaces/Advanced-Programming/ModifiedParallelThreads/obj/Debug/net8.0/ModifiedParallelThreads.dll
+/workspaces/Advanced-Programming/ModifiedParallelThreads/obj/Debug/net8.0/refint/ModifiedParallelThreads.dll
+/workspaces/Advanced-Programming/ModifiedParallelThreads/obj/Debug/net8.0/ModifiedParallelThreads.pdb
+/workspaces/Advanced-Programming/ModifiedParallelThreads/obj/Debug/net8.0/ModifiedParallelThreads.genruntimeconfig.cache
+/workspaces/Advanced-Programming/ModifiedParallelThreads/obj/Debug/net8.0/ref/ModifiedParallelThreads.dll
