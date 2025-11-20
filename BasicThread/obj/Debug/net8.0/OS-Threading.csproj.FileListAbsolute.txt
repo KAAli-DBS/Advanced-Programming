@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/OS-Threading/bin/Debug/net8.0/OS-Threading
+/workspaces/Advanced-Programming/OS-Threading/bin/Debug/net8.0/OS-Threading.deps.json
+/workspaces/Advanced-Programming/OS-Threading/bin/Debug/net8.0/OS-Threading.runtimeconfig.json
+/workspaces/Advanced-Programming/OS-Threading/bin/Debug/net8.0/OS-Threading.dll
+/workspaces/Advanced-Programming/OS-Threading/bin/Debug/net8.0/OS-Threading.pdb
+/workspaces/Advanced-Programming/OS-Threading/obj/Debug/net8.0/OS-Threading.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/OS-Threading/obj/Debug/net8.0/OS-Threading.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/OS-Threading/obj/Debug/net8.0/OS-Threading.AssemblyInfo.cs
+/workspaces/Advanced-Programming/OS-Threading/obj/Debug/net8.0/OS-Threading.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/OS-Threading/obj/Debug/net8.0/OS-Threading.sourcelink.json
+/workspaces/Advanced-Programming/OS-Threading/obj/Debug/net8.0/OS-Threading.dll
+/workspaces/Advanced-Programming/OS-Threading/obj/Debug/net8.0/refint/OS-Threading.dll
+/workspaces/Advanced-Programming/OS-Threading/obj/Debug/net8.0/OS-Threading.pdb
+/workspaces/Advanced-Programming/OS-Threading/obj/Debug/net8.0/OS-Threading.genruntimeconfig.cache
+/workspaces/Advanced-Programming/OS-Threading/obj/Debug/net8.0/ref/OS-Threading.dll
