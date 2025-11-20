@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/Multiple-Threads/bin/Debug/net8.0/Multiple-Threads
+/workspaces/Advanced-Programming/Multiple-Threads/bin/Debug/net8.0/Multiple-Threads.deps.json
+/workspaces/Advanced-Programming/Multiple-Threads/bin/Debug/net8.0/Multiple-Threads.runtimeconfig.json
+/workspaces/Advanced-Programming/Multiple-Threads/bin/Debug/net8.0/Multiple-Threads.dll
+/workspaces/Advanced-Programming/Multiple-Threads/bin/Debug/net8.0/Multiple-Threads.pdb
+/workspaces/Advanced-Programming/Multiple-Threads/obj/Debug/net8.0/Multiple-Threads.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/Multiple-Threads/obj/Debug/net8.0/Multiple-Threads.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/Multiple-Threads/obj/Debug/net8.0/Multiple-Threads.AssemblyInfo.cs
+/workspaces/Advanced-Programming/Multiple-Threads/obj/Debug/net8.0/Multiple-Threads.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/Multiple-Threads/obj/Debug/net8.0/Multiple-Threads.sourcelink.json
+/workspaces/Advanced-Programming/Multiple-Threads/obj/Debug/net8.0/Multiple-Threads.dll
+/workspaces/Advanced-Programming/Multiple-Threads/obj/Debug/net8.0/refint/Multiple-Threads.dll
+/workspaces/Advanced-Programming/Multiple-Threads/obj/Debug/net8.0/Multiple-Threads.pdb
+/workspaces/Advanced-Programming/Multiple-Threads/obj/Debug/net8.0/Multiple-Threads.genruntimeconfig.cache
+/workspaces/Advanced-Programming/Multiple-Threads/obj/Debug/net8.0/ref/Multiple-Threads.dll
