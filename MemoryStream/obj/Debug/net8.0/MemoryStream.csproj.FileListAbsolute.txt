@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/MemoryStream/bin/Debug/net8.0/MemoryStream
+/workspaces/Advanced-Programming/MemoryStream/bin/Debug/net8.0/MemoryStream.deps.json
+/workspaces/Advanced-Programming/MemoryStream/bin/Debug/net8.0/MemoryStream.runtimeconfig.json
+/workspaces/Advanced-Programming/MemoryStream/bin/Debug/net8.0/MemoryStream.dll
+/workspaces/Advanced-Programming/MemoryStream/bin/Debug/net8.0/MemoryStream.pdb
+/workspaces/Advanced-Programming/MemoryStream/obj/Debug/net8.0/MemoryStream.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/MemoryStream/obj/Debug/net8.0/MemoryStream.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/MemoryStream/obj/Debug/net8.0/MemoryStream.AssemblyInfo.cs
+/workspaces/Advanced-Programming/MemoryStream/obj/Debug/net8.0/MemoryStream.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/MemoryStream/obj/Debug/net8.0/MemoryStream.sourcelink.json
+/workspaces/Advanced-Programming/MemoryStream/obj/Debug/net8.0/MemoryStream.dll
+/workspaces/Advanced-Programming/MemoryStream/obj/Debug/net8.0/refint/MemoryStream.dll
+/workspaces/Advanced-Programming/MemoryStream/obj/Debug/net8.0/MemoryStream.pdb
+/workspaces/Advanced-Programming/MemoryStream/obj/Debug/net8.0/MemoryStream.genruntimeconfig.cache
+/workspaces/Advanced-Programming/MemoryStream/obj/Debug/net8.0/ref/MemoryStream.dll
