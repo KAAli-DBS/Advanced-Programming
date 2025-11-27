@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/DataHTTP/bin/Debug/net8.0/DataHTTP
+/workspaces/Advanced-Programming/DataHTTP/bin/Debug/net8.0/DataHTTP.deps.json
+/workspaces/Advanced-Programming/DataHTTP/bin/Debug/net8.0/DataHTTP.runtimeconfig.json
+/workspaces/Advanced-Programming/DataHTTP/bin/Debug/net8.0/DataHTTP.dll
+/workspaces/Advanced-Programming/DataHTTP/bin/Debug/net8.0/DataHTTP.pdb
+/workspaces/Advanced-Programming/DataHTTP/obj/Debug/net8.0/DataHTTP.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/DataHTTP/obj/Debug/net8.0/DataHTTP.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/DataHTTP/obj/Debug/net8.0/DataHTTP.AssemblyInfo.cs
+/workspaces/Advanced-Programming/DataHTTP/obj/Debug/net8.0/DataHTTP.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/DataHTTP/obj/Debug/net8.0/DataHTTP.sourcelink.json
+/workspaces/Advanced-Programming/DataHTTP/obj/Debug/net8.0/DataHTTP.dll
+/workspaces/Advanced-Programming/DataHTTP/obj/Debug/net8.0/refint/DataHTTP.dll
+/workspaces/Advanced-Programming/DataHTTP/obj/Debug/net8.0/DataHTTP.pdb
+/workspaces/Advanced-Programming/DataHTTP/obj/Debug/net8.0/DataHTTP.genruntimeconfig.cache
+/workspaces/Advanced-Programming/DataHTTP/obj/Debug/net8.0/ref/DataHTTP.dll

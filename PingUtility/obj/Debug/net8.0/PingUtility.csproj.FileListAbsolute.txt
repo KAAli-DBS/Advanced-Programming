@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/PingUtility/bin/Debug/net8.0/PingUtility
+/workspaces/Advanced-Programming/PingUtility/bin/Debug/net8.0/PingUtility.deps.json
+/workspaces/Advanced-Programming/PingUtility/bin/Debug/net8.0/PingUtility.runtimeconfig.json
+/workspaces/Advanced-Programming/PingUtility/bin/Debug/net8.0/PingUtility.dll
+/workspaces/Advanced-Programming/PingUtility/bin/Debug/net8.0/PingUtility.pdb
+/workspaces/Advanced-Programming/PingUtility/obj/Debug/net8.0/PingUtility.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/PingUtility/obj/Debug/net8.0/PingUtility.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/PingUtility/obj/Debug/net8.0/PingUtility.AssemblyInfo.cs
+/workspaces/Advanced-Programming/PingUtility/obj/Debug/net8.0/PingUtility.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/PingUtility/obj/Debug/net8.0/PingUtility.sourcelink.json
+/workspaces/Advanced-Programming/PingUtility/obj/Debug/net8.0/PingUtility.dll
+/workspaces/Advanced-Programming/PingUtility/obj/Debug/net8.0/refint/PingUtility.dll
+/workspaces/Advanced-Programming/PingUtility/obj/Debug/net8.0/PingUtility.pdb
+/workspaces/Advanced-Programming/PingUtility/obj/Debug/net8.0/PingUtility.genruntimeconfig.cache
+/workspaces/Advanced-Programming/PingUtility/obj/Debug/net8.0/ref/PingUtility.dll
