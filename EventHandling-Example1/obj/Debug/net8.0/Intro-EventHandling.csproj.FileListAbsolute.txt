@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/Intro-EventHandling/bin/Debug/net8.0/Intro-EventHandling
+/workspaces/Advanced-Programming/Intro-EventHandling/bin/Debug/net8.0/Intro-EventHandling.deps.json
+/workspaces/Advanced-Programming/Intro-EventHandling/bin/Debug/net8.0/Intro-EventHandling.runtimeconfig.json
+/workspaces/Advanced-Programming/Intro-EventHandling/bin/Debug/net8.0/Intro-EventHandling.dll
+/workspaces/Advanced-Programming/Intro-EventHandling/bin/Debug/net8.0/Intro-EventHandling.pdb
+/workspaces/Advanced-Programming/Intro-EventHandling/obj/Debug/net8.0/Intro-EventHandling.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/Intro-EventHandling/obj/Debug/net8.0/Intro-EventHandling.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/Intro-EventHandling/obj/Debug/net8.0/Intro-EventHandling.AssemblyInfo.cs
+/workspaces/Advanced-Programming/Intro-EventHandling/obj/Debug/net8.0/Intro-EventHandling.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/Intro-EventHandling/obj/Debug/net8.0/Intro-EventHandling.sourcelink.json
+/workspaces/Advanced-Programming/Intro-EventHandling/obj/Debug/net8.0/Intro-EventHandling.dll
+/workspaces/Advanced-Programming/Intro-EventHandling/obj/Debug/net8.0/refint/Intro-EventHandling.dll
+/workspaces/Advanced-Programming/Intro-EventHandling/obj/Debug/net8.0/Intro-EventHandling.pdb
+/workspaces/Advanced-Programming/Intro-EventHandling/obj/Debug/net8.0/Intro-EventHandling.genruntimeconfig.cache
+/workspaces/Advanced-Programming/Intro-EventHandling/obj/Debug/net8.0/ref/Intro-EventHandling.dll

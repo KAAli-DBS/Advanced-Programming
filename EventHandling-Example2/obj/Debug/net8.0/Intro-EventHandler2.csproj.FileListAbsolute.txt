@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/EventHandling-Example2/bin/Debug/net8.0/Intro-EventHandler2
+/workspaces/Advanced-Programming/EventHandling-Example2/bin/Debug/net8.0/Intro-EventHandler2.deps.json
+/workspaces/Advanced-Programming/EventHandling-Example2/bin/Debug/net8.0/Intro-EventHandler2.runtimeconfig.json
+/workspaces/Advanced-Programming/EventHandling-Example2/bin/Debug/net8.0/Intro-EventHandler2.dll
+/workspaces/Advanced-Programming/EventHandling-Example2/bin/Debug/net8.0/Intro-EventHandler2.pdb
+/workspaces/Advanced-Programming/EventHandling-Example2/obj/Debug/net8.0/Intro-EventHandler2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/EventHandling-Example2/obj/Debug/net8.0/Intro-EventHandler2.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/EventHandling-Example2/obj/Debug/net8.0/Intro-EventHandler2.AssemblyInfo.cs
+/workspaces/Advanced-Programming/EventHandling-Example2/obj/Debug/net8.0/Intro-EventHandler2.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/EventHandling-Example2/obj/Debug/net8.0/Intro-EventHandler2.sourcelink.json
+/workspaces/Advanced-Programming/EventHandling-Example2/obj/Debug/net8.0/Intro-EventHandler2.dll
+/workspaces/Advanced-Programming/EventHandling-Example2/obj/Debug/net8.0/refint/Intro-EventHandler2.dll
+/workspaces/Advanced-Programming/EventHandling-Example2/obj/Debug/net8.0/Intro-EventHandler2.pdb
+/workspaces/Advanced-Programming/EventHandling-Example2/obj/Debug/net8.0/Intro-EventHandler2.genruntimeconfig.cache
+/workspaces/Advanced-Programming/EventHandling-Example2/obj/Debug/net8.0/ref/Intro-EventHandler2.dll
