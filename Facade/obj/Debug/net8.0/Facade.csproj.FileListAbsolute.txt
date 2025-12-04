@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/Facade/bin/Debug/net8.0/Facade
+/workspaces/Advanced-Programming/Facade/bin/Debug/net8.0/Facade.deps.json
+/workspaces/Advanced-Programming/Facade/bin/Debug/net8.0/Facade.runtimeconfig.json
+/workspaces/Advanced-Programming/Facade/bin/Debug/net8.0/Facade.dll
+/workspaces/Advanced-Programming/Facade/bin/Debug/net8.0/Facade.pdb
+/workspaces/Advanced-Programming/Facade/obj/Debug/net8.0/Facade.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/Facade/obj/Debug/net8.0/Facade.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/Facade/obj/Debug/net8.0/Facade.AssemblyInfo.cs
+/workspaces/Advanced-Programming/Facade/obj/Debug/net8.0/Facade.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/Facade/obj/Debug/net8.0/Facade.sourcelink.json
+/workspaces/Advanced-Programming/Facade/obj/Debug/net8.0/Facade.dll
+/workspaces/Advanced-Programming/Facade/obj/Debug/net8.0/refint/Facade.dll
+/workspaces/Advanced-Programming/Facade/obj/Debug/net8.0/Facade.pdb
+/workspaces/Advanced-Programming/Facade/obj/Debug/net8.0/Facade.genruntimeconfig.cache
+/workspaces/Advanced-Programming/Facade/obj/Debug/net8.0/ref/Facade.dll
