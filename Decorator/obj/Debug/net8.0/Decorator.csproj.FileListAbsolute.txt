@@ -1,0 +1,15 @@
+/workspaces/Advanced-Programming/Decorator/bin/Debug/net8.0/Decorator
+/workspaces/Advanced-Programming/Decorator/bin/Debug/net8.0/Decorator.deps.json
+/workspaces/Advanced-Programming/Decorator/bin/Debug/net8.0/Decorator.runtimeconfig.json
+/workspaces/Advanced-Programming/Decorator/bin/Debug/net8.0/Decorator.dll
+/workspaces/Advanced-Programming/Decorator/bin/Debug/net8.0/Decorator.pdb
+/workspaces/Advanced-Programming/Decorator/obj/Debug/net8.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Advanced-Programming/Decorator/obj/Debug/net8.0/Decorator.AssemblyInfoInputs.cache
+/workspaces/Advanced-Programming/Decorator/obj/Debug/net8.0/Decorator.AssemblyInfo.cs
+/workspaces/Advanced-Programming/Decorator/obj/Debug/net8.0/Decorator.csproj.CoreCompileInputs.cache
+/workspaces/Advanced-Programming/Decorator/obj/Debug/net8.0/Decorator.sourcelink.json
+/workspaces/Advanced-Programming/Decorator/obj/Debug/net8.0/Decorator.dll
+/workspaces/Advanced-Programming/Decorator/obj/Debug/net8.0/refint/Decorator.dll
+/workspaces/Advanced-Programming/Decorator/obj/Debug/net8.0/Decorator.pdb
+/workspaces/Advanced-Programming/Decorator/obj/Debug/net8.0/Decorator.genruntimeconfig.cache
+/workspaces/Advanced-Programming/Decorator/obj/Debug/net8.0/ref/Decorator.dll
